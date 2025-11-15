@@ -26,3 +26,9 @@ And query `stg_menu_items.sql` to join cleaned `raw_transaction_items` and `raw_
 ## Dimensions:
 
 We used single query Dim_tables_creation.sql to create 3 DIM tables dim_date, dim_restaurant and dim_product from stage layer data.
+
+## Factual Table:
+We used query `Fact_table_creation.sql` to create factual table `fact_order_items`.
+
+# Main query
+Now that we have completed Mart layer we can use simple query `main_query.sql` to calculate total profit for each category in Kyiv region from 3 last months of the year.
