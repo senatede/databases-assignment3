@@ -19,3 +19,10 @@ We used `generate.py` script to generate raw data sources(with occasional null v
 We used queries `stg_menu_items.sql` and `stg_restaurants.sql` to just clean the data from null values and duplicates
 
 And query `stg_menu_items.sql` to join cleaned `raw_transaction_items` and `raw_transactions` tables.
+
+# Mart Layer:
+![MART](assets/MART.png)
+
+## Dimensions:
+
+We used single query Dim_tables_creation.sql to create 3 DIM tables dim_date, dim_restaurant and dim_product from stage layer data.
