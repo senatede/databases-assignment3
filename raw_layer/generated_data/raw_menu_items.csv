@@ -1,0 +1,56 @@
+product_id,name,category,unit_cost
+prod_001,Big Mac,Burger,75.00
+prod_002,Cheeseburger,Burger,42.50
+prod_003,Hamburger,Burger,38.00
+prod_004,Double Cheeseburger,Burger,65.00
+prod_005,McChicken,Burger,70.00
+prod_006,Filet-O-Fish,Chicken & Fish,68.00
+prod_007,Quarter Pounder,Burger,80.00
+prod_008,Big Tasty,Burger,110.00
+prod_009,Chicken McNuggets (6),Chicken & Fish,90.00
+prod_010,Chicken McNuggets (9),Chicken & Fish,125.00
+prod_011,Chicken McNuggets (20),Chicken & Fish,240.00
+prod_012,Spicy Chicken Burger,Chicken & Fish,72.00
+prod_013,Chicken Wrap,Chicken & Fish,85.00
+prod_014,Fries (Large),Side,40.00
+prod_015,Fries (Medium),Side,35.00
+prod_016,Fries (Small),Side,28.00
+prod_017,Potato Wedges,Side,45.00
+prod_018,Onion Rings,Side,50.00
+prod_019,Garden Salad,Salad,65.00
+prod_020,Caesar Salad,Salad,85.00
+prod_021,Caesar Salad with Chicken,Salad,105.00
+prod_022,Coca-Cola (Large),Drink (Cold),35.00
+prod_023,Coca-Cola (Medium),Drink (Cold),32.50
+prod_024,Coca-Cola (Small),Drink (Cold),30.00
+prod_025,Sprite (Medium),Drink (Cold),32.50
+prod_026,Fanta (Medium),Drink (Cold),32.50
+prod_027,Orange Juice,Drink (Cold),45.00
+prod_028,Still Water,Drink (Cold),25.00
+prod_029,Iced Latte,Drink (Cold),55.00
+prod_030,Espresso,Drink (Hot),30.00
+prod_031,Americano,Drink (Hot),35.00
+prod_032,Cappuccino,Drink (Hot),45.00
+prod_033,Latte,Drink (Hot),50.00
+prod_034,Hot Tea (Black),Drink (Hot),25.00
+prod_035,Hot Chocolate,Drink (Hot),50.00
+prod_036,McFlurry,Dessert,60.00
+prod_037,Apple Pie,Dessert,45.00
+prod_038,Sundae (Chocolate),Dessert,50.00
+prod_039,Sundae (Caramel),Dessert,50.00
+prod_040,Ice Cream Cone,Dessert,25.00
+prod_041,Donut,Dessert,35.00
+prod_042,Egg McMuffin,Breakfast,60.00
+prod_043,Sausage McMuffin,Breakfast,65.00
+prod_044,Hash Brown,Breakfast,30.00
+prod_045,Pancakes (3),Breakfast,70.00
+prod_046,Breakfast Wrap,Breakfast,75.00
+prod_047,Croissant,McCafe,40.00
+prod_048,Chocolate Chip Cookie,McCafe,30.00
+prod_049,Blueberry Muffin,McCafe,55.00
+prod_050,Happy Meal,Kids,130.00
+prod_040,Ice Cream Cone,Dessert,25.00
+prod_013,Chicken Wrap,Chicken & Fish,85.00
+prod_022,Coca-Cola (Large),Drink (Cold),35.00
+prod_044,Hash Brown,Breakfast,30.00
+prod_008,Big Tasty,Burger,110.00

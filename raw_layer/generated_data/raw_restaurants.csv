@@ -1,0 +1,111 @@
+restaurant_id,address,city,region
+rest_001,Stepana Bandery St 27,,Odesa
+rest_002,Derybasivska St 118,Vinnytsia,
+rest_003,,Lutsk,Volyn
+rest_004,Svobody Ave 60,Vinnytsia,Vinnytsia
+rest_005,Stepana Bandery St 88,Kharkiv,
+rest_006,Svobody Ave 111,Odesa,Odesa
+rest_007,Khmelnytske Hwy 48,Lviv,Lviv
+rest_008,Sobornosti Ave 93,Lutsk,Volyn
+rest_009,,Odesa,Odesa
+rest_010,Derybasivska St 21,Lutsk,Volyn
+rest_011,Svobody Ave 121,Vinnytsia,Vinnytsia
+rest_012,Khreshchatyk St 34,Kharkiv,Kharkiv
+rest_013,Shevchenka Ave 96,Kyiv,Kyiv
+rest_014,Stepana Bandery St 83,Lviv,Lviv
+rest_015,Stepana Bandery St 87,Dnipro,Dnipropetrovsk
+rest_016,Shevchenka Ave 82,Odesa,Odesa
+rest_017,Stepana Bandery St 100,Vinnytsia,Vinnytsia
+rest_018,Khreshchatyk St 148,Lviv,Lviv
+rest_019,,Vinnytsia,Vinnytsia
+rest_020,Stepana Bandery St 36,Vinnytsia,Vinnytsia
+rest_021,Khreshchatyk St 120,Lviv,Lviv
+rest_022,Stepana Bandery St 45,,Kyiv
+rest_023,Khreshchatyk St 137,Lutsk,Volyn
+rest_024,,Vinnytsia,Vinnytsia
+rest_025,Stepana Bandery St 37,Lviv,
+rest_026,Shevchenka Ave 12,Vinnytsia,Vinnytsia
+rest_027,,,Kyiv
+rest_028,Svobody Ave 123,Lviv,Lviv
+rest_029,Svobody Ave 111,,Kyiv
+rest_030,Khmelnytske Hwy 95,Lviv,Lviv
+rest_031,Shevchenka Ave 106,Kyiv,Kyiv
+rest_032,Haharina Ave 132,Lviv,
+rest_033,Haharina Ave 28,Vinnytsia,Vinnytsia
+rest_034,Sobornosti Ave 40,Odesa,
+rest_035,Khreshchatyk St 49,Lviv,Lviv
+rest_036,Shevchenka Ave 143,Odesa,Odesa
+rest_037,Khmelnytske Hwy 143,Dnipro,Dnipropetrovsk
+rest_038,Sobornosti Ave 68,Lviv,Lviv
+rest_039,Sobornosti Ave 133,Lviv,Lviv
+rest_040,Shevchenka Ave 58,Lviv,Lviv
+rest_041,,Kyiv,Kyiv
+rest_042,Sobornosti Ave 108,Kharkiv,Kharkiv
+rest_043,Derybasivska St 22,Dnipro,Dnipropetrovsk
+rest_044,Khmelnytske Hwy 65,Odesa,Odesa
+rest_045,Svobody Ave 139,Dnipro,Dnipropetrovsk
+rest_046,Svobody Ave 10,Vinnytsia,Vinnytsia
+rest_047,Khmelnytske Hwy 112,Vinnytsia,Vinnytsia
+rest_048,Haharina Ave 35,Odesa,Odesa
+rest_049,Stepana Bandery St 34,Odesa,Odesa
+rest_050,Shevchenka Ave 138,Dnipro,Dnipropetrovsk
+rest_051,Shevchenka Ave 67,Vinnytsia,Vinnytsia
+rest_052,Svobody Ave 106,Kyiv,Kyiv
+rest_053,Khmelnytske Hwy 150,Kyiv,Kyiv
+rest_054,Stepana Bandery St 112,Kharkiv,Kharkiv
+rest_055,Stepana Bandery St 82,Kharkiv,Kharkiv
+rest_056,,Kharkiv,
+rest_057,,Odesa,Odesa
+rest_058,Svobody Ave 96,Vinnytsia,Vinnytsia
+rest_059,Stepana Bandery St 31,Lviv,Lviv
+rest_060,Sobornosti Ave 3,Kharkiv,
+rest_061,Shevchenka Ave 48,,Dnipropetrovsk
+rest_062,Sobornosti Ave 56,Kharkiv,Kharkiv
+rest_063,Shevchenka Ave 108,Lviv,Lviv
+rest_064,Sobornosti Ave 16,Vinnytsia,Vinnytsia
+rest_065,,Lviv,Lviv
+rest_066,Shevchenka Ave 86,Lutsk,Volyn
+rest_067,Khreshchatyk St 18,Kharkiv,Kharkiv
+rest_068,Haharina Ave 133,Kyiv,Kyiv
+rest_069,Khmelnytske Hwy 146,,Vinnytsia
+rest_070,Khmelnytske Hwy 147,Kyiv,Kyiv
+rest_071,,Lviv,Lviv
+rest_072,Khreshchatyk St 23,Odesa,Odesa
+rest_073,Khreshchatyk St 58,Lutsk,Volyn
+rest_074,Khmelnytske Hwy 49,Vinnytsia,Vinnytsia
+rest_075,Derybasivska St 132,Kyiv,
+rest_076,Shevchenka Ave 30,Odesa,Odesa
+rest_077,Khmelnytske Hwy 124,Lviv,Lviv
+rest_078,,Kharkiv,Kharkiv
+rest_079,Khmelnytske Hwy 149,,Lviv
+rest_080,Sobornosti Ave 144,,
+rest_081,Svobody Ave 62,Kyiv,Kyiv
+rest_082,Stepana Bandery St 121,Kharkiv,Kharkiv
+rest_083,Derybasivska St 125,Vinnytsia,Vinnytsia
+rest_084,Haharina Ave 85,,Kyiv
+rest_085,Haharina Ave 135,Dnipro,Dnipropetrovsk
+rest_086,,Odesa,Odesa
+rest_087,Sobornosti Ave 111,,Kyiv
+rest_088,Derybasivska St 4,Dnipro,Dnipropetrovsk
+rest_089,Derybasivska St 54,Dnipro,
+rest_090,Svobody Ave 31,Dnipro,Dnipropetrovsk
+rest_091,Stepana Bandery St 144,Odesa,Odesa
+rest_092,Stepana Bandery St 131,Kharkiv,
+rest_093,Derybasivska St 54,Kyiv,Kyiv
+rest_094,Khmelnytske Hwy 75,Odesa,Odesa
+rest_095,Stepana Bandery St 13,Odesa,Odesa
+rest_096,Derybasivska St 28,,Volyn
+rest_097,Haharina Ave 96,Lviv,Lviv
+rest_098,,Dnipro,Dnipropetrovsk
+rest_099,Stepana Bandery St 40,Vinnytsia,Vinnytsia
+rest_100,Shevchenka Ave 125,Lutsk,Volyn
+rest_054,Stepana Bandery St 112,Kharkiv,Kharkiv
+rest_047,Khmelnytske Hwy 112,Vinnytsia,Vinnytsia
+rest_045,Svobody Ave 139,Dnipro,Dnipropetrovsk
+rest_060,Sobornosti Ave 3,Kharkiv,
+rest_044,Khmelnytske Hwy 65,Odesa,Odesa
+rest_061,Shevchenka Ave 48,,Dnipropetrovsk
+rest_015,Stepana Bandery St 87,Dnipro,Dnipropetrovsk
+rest_077,Khmelnytske Hwy 124,Lviv,Lviv
+rest_028,Svobody Ave 123,Lviv,Lviv
+rest_095,Stepana Bandery St 13,Odesa,Odesa
